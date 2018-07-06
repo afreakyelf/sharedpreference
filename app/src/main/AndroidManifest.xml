@@ -24,7 +24,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".register" />
-        <activity android:name=".welcome"></activity>
+        <activity android:name=".welcome" />
+        <activity android:name=".login"></activity>
     </application>
 
 </manifest>

@@ -20,6 +20,7 @@ public class splash extends AppCompatActivity {
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
+                finish();
             }
         });
         thread.start();
